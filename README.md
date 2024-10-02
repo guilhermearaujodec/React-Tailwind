@@ -1,0 +1,2 @@
+# Extensão
+Tailwind CSS IntelliSense
